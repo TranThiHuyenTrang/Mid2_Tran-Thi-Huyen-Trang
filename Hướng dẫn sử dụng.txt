@@ -1,0 +1,8 @@
+Hướng dẫn sử dụng:
+
+Chức năng có trong trang web: Đăng kí, Đặt hàng, Xem chi tiết sản phẩm, Tìm kiếm sản phẩm theo tên, Xem sp theo loại, theo menu trái, Thêm và xóa sản phẩm cho admin. 
+
+Bước 1: Nhập link trang lên google: http://localhost/Mid2_TranThiHuyenTrang/public/index (Trang giao diện của Customer)
+Bước 2: Nhập link trang lên google: http://localhost/Mid2_TranThiHuyenTrang/public/indexadmin (Trang giao diện của Admin) hoặc click vào link Admin trên phần header của trang giao diện customer để chuyển sang trang admin.
+
+
